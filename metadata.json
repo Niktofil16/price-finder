@@ -1,0 +1,6 @@
+{
+  "name": "BozorScan AI — Marketplace Price Scanner & Telegram Bot",
+  "description": "AI-powered product recognition and marketplace price comparison across Uzum Market, Wildberries, Ozon, AliExpress, and Yandex Market with dynamic Gemini ListModels resolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
